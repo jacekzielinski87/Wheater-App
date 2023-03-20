@@ -1,5 +1,19 @@
-.search, .location-box, .weather-box {
+.search {
   text-align: center;
+  width:600px;
+  height:600px;
+  background-image: url('./clouds.jpg');
+}
+
+.location-box, .weather-box {
+  font-size: 2rem;
+  text-align: center;
+  position:relative;
+  bottom:450px;
+  right:500px;
+  padding:1.4rem;
+  margin:1.2;
+  color:#fff;
 }
 
 .searching {
@@ -15,6 +29,8 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
+
 
 
 
