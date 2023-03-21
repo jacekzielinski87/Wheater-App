@@ -1,34 +1,23 @@
-.search {
-  text-align: center;
-  width:600px;
-  height:600px;
+.app {
+  margin:0;
+  padding:0;
+  background-color: #ff8787;
   background-image: url('./clouds.jpg');
-}
-
-.location-box, .weather-box {
-  font-size: 2rem;
+  width:50%;
+  height:100vh;
+  border-radius: 12px;
   text-align: center;
-  position:relative;
-  bottom:450px;
-  right:500px;
-  padding:1.4rem;
-  margin:1.2;
-  color:#fff;
-}
-
-.searching {
-  margin-top:2rem;
-  padding:1rem;
-  border-radius: 10px;
-  background-color: rgba(255, 255, 255, 0.4);
 }
 
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+
+
+
+
+
+
+
+
 
 
 
