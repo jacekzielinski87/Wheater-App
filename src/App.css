@@ -10,10 +10,17 @@
 }
 
 .location-box, .weather-box {
-  color:#3A3A3A;
-  font-size: 1.4rem;
-  padding:1.2rem;
-  margin:1.4rem;
+  color: #2E2E2E;
+  font-size: 1.2rem;
+  padding:1.1rem;
+  margin:1.2rem;
+}
+
+.searching {
+  padding: 1em;
+  margin:1em;
+  border-radius: 8px;
+  background-color: #A6A6A6;
 }
 
 
